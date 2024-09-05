@@ -1,4 +1,4 @@
-Calculator built in .NET MAUI and using NuGet xFunc.Maths
+Calculator built in .NET MAUI with C# and using NuGet xFunc.Maths
 
 Calculator designed for Android
 
